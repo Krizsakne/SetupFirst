@@ -6,7 +6,7 @@
     
 2/ Bổ sung package:
 
-    sudo apt install curl tar wget clang pkg-config libssl-dev jq build-essential git make ncdu -y
+    sudo apt install curl tar wget clang pkg-config libssl-dev jq build-essential git make lz4 unzip ncdu -y
     
 3/ Cài đặt Golang:
 
